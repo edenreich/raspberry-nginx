@@ -8,7 +8,7 @@ Raspberry PI docker image for running nginx version 1.6.*
 
 - docker-cli
 
-## Installation
+## Usage
 
 On the command line:
 ```sh
