@@ -1,6 +1,6 @@
 <p align="center"><img src="https://s9.postimg.cc/urizqhqkv/raspberry-docker-nginx.png"></p>
 
-# Raspberry Pi PHP
+# Raspberry Pi Nginx
 
 Raspberry PI docker image for running nginx version 1.6.*
 
