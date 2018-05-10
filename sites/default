@@ -19,7 +19,7 @@ server {
 	location ~ \.php$ {
 		include snippets/fastcgi-php.conf;
 		
-		# uncomment this line to serve let PHP serve the files
+		# uncomment this line to let PHP serve the files
 		# fastcgi_pass php:9000;
 	}
 
